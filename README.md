@@ -1,4 +1,5 @@
-# ARO-22-23
+# ARO
+Architecture des ordinateurs 2022-2023
 | Labos | Notes |
 | ---- | ---- |
 | Labo 1 | 5.1 |
